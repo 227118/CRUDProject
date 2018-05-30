@@ -2,6 +2,8 @@
 
   This website allows the user to log their dog's activity. The type of activity/exercise done, time, amount of time, date, and any additional notes can all be logged. This information will then be saved to a MySQL database, so users can access this information later. The user can then see this information in a table in the website. In addition, the user can update and delete any information previously added. This website has many applications for users including being able to communicate with family members on what tasks were completed for the dog. This can prevent any misunderstandings between the dog owners, such as one person assuming the other has already taken the dog out when they actually haven't. In addition, this website allows one to monitor their dog's health. Any changes in the dog's activity level or behaviors can be recorded and can be referred to later on, which can help dog owners recognize any health issues. 
   
+**Link: https://samyuravikumar-hour6-csp-samyuravikumar.c9users.io/Dog%20Activity%20Log/homePage.php**
+  
  ## Getting Started
  You are first shown the home page of the website. From there, you can click a link to view the activity log.
  
